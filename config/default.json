@@ -1,6 +1,6 @@
 {
     "appSecret": "c8b0a5780f0a2f55142ce6bc152c50ee",
     "pageAccessToken": "EAAJeNttGyF0BAKl1bZAud5A9zBOYxJRambp2EZCyUxwrnCZCH68O7o1Uq0lS5l2UajDYZBbAk4hPHqMeHYqJZByBwcSDubCXXXuZAOZAWUZCsdGCNyLZBdHuW1X12KY7VIPitV74vEGffBZBvvoMLR1726p1UlQDhvoZBjnJZAZBFfZAjbWwZDZD",
-    "validationToken": "",
-    "serverURL": ""
+    "validationToken": "mercury-is-the-same-as-hermes",
+    "serverURL": "https://project-mercury.azurewebsites.net"
 }
