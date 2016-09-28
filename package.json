@@ -1,7 +1,7 @@
 {
-  "name": "messenger-get-started",
+  "name": "MercuryProject",
   "version": "1.0.0",
-  "description": "Get started example for Messenger Platform",
+  "description": "White label for Messenger Platform",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
@@ -10,9 +10,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fbsamples/messenger-platform-samples.git"
+    "url": "https://github.com/martinrojas/MercuryProject.git"
   },
-  "author": "Facebook",
+  "author": "digiATL",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
